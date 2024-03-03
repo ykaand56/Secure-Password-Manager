@@ -1,0 +1,1 @@
+The Secure Password Manager encrypts and stores passwords in a secure vault, allowing users to manage and access their credentials across multiple devices with enhanced security and convenience.
